@@ -1,0 +1,4 @@
+COMPLETE-MCPS-prova 2-MCPS-1/1-MCPS-ab-MCPS-[]-MCPS-3
+COMPLETE-MCPS-teste 1-MCPS-1/1-MCPS-a-MCPS-[]-MCPS-2
+COMPLETE-MCPS-teste 3-MCPS-3/7-MCPS-a    eedc                                                                                 -MCPS-aeeeeee-MCPS-11
+COMPLETE-MCPS-teste 2-MCPS-0/17-MCPS-edce                                                                                      -MCPS-aaaaaaaaaaaaaaaaa-MCPS-6
