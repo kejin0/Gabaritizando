@@ -14,7 +14,8 @@ import time
 
 #Window.size = (360, 800)
 Window.clearcolor = get_color_from_hex("#fe97b0")
-Builder_string = ''' #:import c kivy.utils.get_color_from_hex
+Builder_string = ''' 
+#:import c kivy.utils.get_color_from_hex
 #: import CardTransition kivy.uix.screenmanager.CardTransition
 
 WindowManager:
