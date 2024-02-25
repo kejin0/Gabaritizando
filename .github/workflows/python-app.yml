@@ -28,7 +28,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        pip install -r kivy
         python -m pip install pygments docutils pillow --user
         git clone git://github.com/kivy/kivy.git
         cd kivy
